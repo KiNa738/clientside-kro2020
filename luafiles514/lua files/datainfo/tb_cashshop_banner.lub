@@ -1,0 +1,28 @@
+tb_cashshop_banner = {
+	[1] = {
+		"anacondaqq.bmp",
+		"https://discord.gg/p2kvabm"
+	},
+	[2] = {
+		"anacondaqq.bmp",
+		"https://discord.gg/p2kvabm"
+	},
+	[3] = {
+		"anacondaqq.bmp",
+		"https://discord.gg/p2kvabm"
+	},
+	[4] = {
+		"anacondaqq.bmp",
+		"https://discord.gg/p2kvabm"
+	},
+	[5] = {
+		"anacondaqq.bmp",
+		"https://discord.gg/p2kvabm"
+	}
+}
+
+function set_cashshop_banner()
+	for key, value in ipairs(tb_cashshop_banner) do
+		add_cashshop_banner(value[1], value[2])
+	end
+end

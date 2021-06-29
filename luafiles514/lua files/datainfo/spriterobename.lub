@@ -188,7 +188,13 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Sandalphon_Wing_TW] = "C_Sandalphon_Wing_TW",
 	[SPRITE_ROBE_IDs.ROBE_C_CAPOO_Bag_TW] = "C_CAPOO_Bag_TW",
 	[SPRITE_ROBE_IDs.ROBE_Ten_G_Shield_TW] = "Ten_G_Shield_TW",
-	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW",	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Butterfly] = "C_Mechanical_Butterfly",	[SPRITE_ROBE_IDs.ROBE_C_Mainspring_Screw] = "C_Mainspring_Screw",	[SPRITE_ROBE_IDs.ROBE_C_Rotating_Gears] = "C_Rotating_Gears",	[SPRITE_ROBE_IDs.ROBE_Fairy_Of_Eden] = "Fairy_Of_Eden",	[SPRITE_ROBE_IDs.ROBE_C_Sudden_Wealth_TW] = "C_Sudden_Wealth_TW",	[SPRITE_ROBE_IDs.ROBE_C_Scepter] = "C_Scepter"
+	[SPRITE_ROBE_IDs.ROBE_C_Baldr_Wing_TW] = "C_Baldr_Wing_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Mechanical_Butterfly] = "C_Mechanical_Butterfly",
+	[SPRITE_ROBE_IDs.ROBE_C_Mainspring_Screw] = "C_Mainspring_Screw",
+	[SPRITE_ROBE_IDs.ROBE_C_Rotating_Gears] = "C_Rotating_Gears",
+	[SPRITE_ROBE_IDs.ROBE_Fairy_Of_Eden] = "Fairy_Of_Eden",
+	[SPRITE_ROBE_IDs.ROBE_C_Sudden_Wealth_TW] = "C_Sudden_Wealth_TW",
+	[SPRITE_ROBE_IDs.ROBE_C_Scepter] = "C_Scepter"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,

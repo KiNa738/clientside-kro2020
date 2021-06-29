@@ -6235,5 +6235,19 @@ SKILL_DESCRIPT = {
 	[SKID.MH_LAVA_SLIDE] = { "Lava Slide" },
 	[SKID.MH_PYROCLASTIC] = { "Pyroclastic" },
 	[SKID.MH_VOLCANIC_ASH] = { "Volcanic Ash" },
+	[SKID.CASH_BLESSING] = {
+        "Party Blessing",
+        "Max Level: 10",
+        "4^CC3399Requirement: Job Level 70 ^000000",
+        "Skill Form: ^339900Active ^000000",
+        "Description: ^777777Casts 'Blessing' on the caster and any party members within range. This skill consume 35% SP and will fail if the caster has less than 35% SP. ^000000"
+	},
+	[SKID.CASH_INCAGI] = {
+        "Party Increase Agility",
+        "Max Level: 10",
+        "4^CC3399Requirement: Job Level 70 ^000000",
+        "Skill Form: ^339900Active ^000000",
+        "Description: ^777777Casts 'Increase AGI' on the caster and any party members within range. This skill consume 35% HP and will fail if the caster has less than 35% HP. ^000000"
+    },
 
 }

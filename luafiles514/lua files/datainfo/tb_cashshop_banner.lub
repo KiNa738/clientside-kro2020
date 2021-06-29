@@ -1,23 +1,15 @@
 tb_cashshop_banner = {
 	[1] = {
-		"anacondaqq.bmp",
-		"https://discord.gg/p2kvabm"
+		"rAthena.bmp",
+		"https://google.com/"
 	},
 	[2] = {
-		"anacondaqq.bmp",
-		"https://discord.gg/p2kvabm"
+		"rAthena.bmp",
+		"https://google.com/"
 	},
-	[3] = {
-		"anacondaqq.bmp",
-		"https://discord.gg/p2kvabm"
-	},
-	[4] = {
-		"anacondaqq.bmp",
-		"https://discord.gg/p2kvabm"
-	},
-	[5] = {
-		"anacondaqq.bmp",
-		"https://discord.gg/p2kvabm"
+	[3] = { 
+		"rAthena.bmp",
+		"https://google.com/"
 	}
 }
 
